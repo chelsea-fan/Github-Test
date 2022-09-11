@@ -5,3 +5,4 @@ Added this line in child branch in commit number 2
 Added this line in child2
 Added this line in child2 in commit number 2
 New branch commit
+Added this line in child4

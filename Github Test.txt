@@ -8,3 +8,4 @@ New branch commit
 Added this line in child3
 Added this line in child4
 Added this line in child5
+Added this line in child6
